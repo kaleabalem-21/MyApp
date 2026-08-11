@@ -1,7 +1,7 @@
 [app]
-title = MyApp
-package.name = myapp
-package.domain = org.test
+title = Tomhawk
+package.name = tomhawk
+package.domain = com.smarttechethio
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
